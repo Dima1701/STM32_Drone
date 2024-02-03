@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ESC_JOYSTICK/esc_joystick/Inc/JOYSTICK.h&apos; to &apos;Joystick.h&apos;" description="Rename resource &apos;JOYSTICK.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="esc_joystick/Inc/JOYSTICK.h" name="Joystick.h" stamp="1706703835896" updateReferences="true"/>
+</session>
