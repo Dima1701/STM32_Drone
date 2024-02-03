@@ -4,13 +4,14 @@
  *  Created on: Jan 31, 2024
  *      Author: dimak
  */
+#include "ESC.h"
 
 uint16_t ADC_Data=0;
 int ADC_Converted = 0;
 uint32_t VR[2];
 void my_main(void) {
-	HAL_DMA_Start(hdma, SrcAddress, DstAddress, DataLength);
-	HAL_TIM_PWM_Start(htim, Channel);
+//	HAL_ADC_Start_DMA(&hadc1, (uint32_t) ADC_Data, 2); // start adc in dma mode for multichannel
+	HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
 }
 
 void esc_calibrate(void) {
@@ -30,39 +31,40 @@ int map(int x, int in_min, int in_max, int out_min, int out_max)
 
 void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* hadc)
 {
-	ADC_Converted = map(ADC_Data, 0, 4095, 50, 100);
+	ADC_Data = 100;// TO DO
+	ADC_Converted = map(ADC_Data, 500, 4095, 50, 100);
 
 	TIM1->CCR1 = ADC_Converted;
 }
 void joystick(void) {
 	if ((VR[0]>=2000)&&(VR[0]<=3000))   // if the value is between 2000 to 3000
 		  {
-			  HAL_ADC_ConvCpltCallback(hadc);
+			  HAL_ADC_ConvCpltCallback(&hadc1);
 		  }
 
 		  if ((VR[1]>=2000) && (VR[1]<=3000))
 		  {
-			  HAL_ADC_ConvCpltCallback(hadc);
+			  HAL_ADC_ConvCpltCallback(&hadc1);
 		  }
 
 		  if ((VR[0]>=4000))  // towards xplus
 		  {
-			  HAL_ADC_ConvCpltCallback(hadc);
+			  HAL_ADC_ConvCpltCallback(&hadc1);
 		  }
 
 		  if ((VR[0]<=800))  // towards xmin
 		  {
-			  HAL_ADC_ConvCpltCallback(hadc);
+			  HAL_ADC_ConvCpltCallback(&hadc1);
 		  }
 
 		  if ((VR[1]>=4000))   // towards yplus
 		  {
-			  HAL_ADC_ConvCpltCallback(hadc);
+			  HAL_ADC_ConvCpltCallback(&hadc1);
 		  }
 
 		  if ((VR[1]<=800))  // ymin
 		  {
-			  HAL_ADC_ConvCpltCallback(hadc);
+			  HAL_ADC_ConvCpltCallback(&hadc1);
 		  }
 
 }

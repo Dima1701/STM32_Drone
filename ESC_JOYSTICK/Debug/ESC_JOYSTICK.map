@@ -4313,22 +4313,177 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xba ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
  .debug_macro   0x0000000000000000      0x14d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
  .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
+ .group         0x0000000000000000        0xc ./esc_joystick/Src/ESC.o
  .text          0x0000000000000000        0x0 ./esc_joystick/Src/ESC.o
  .data          0x0000000000000000        0x0 ./esc_joystick/Src/ESC.o
  .bss           0x0000000000000000        0x0 ./esc_joystick/Src/ESC.o
- .text.my_main  0x0000000000000000        0xe ./esc_joystick/Src/ESC.o
- .debug_info    0x0000000000000000       0x3d ./esc_joystick/Src/ESC.o
- .debug_abbrev  0x0000000000000000       0x2f ./esc_joystick/Src/ESC.o
+ .bss.ADC_Data  0x0000000000000000        0x2 ./esc_joystick/Src/ESC.o
+ .bss.ADC_Converted
+                0x0000000000000000        0x4 ./esc_joystick/Src/ESC.o
+ .bss.VR        0x0000000000000000        0x8 ./esc_joystick/Src/ESC.o
+ .text.my_main  0x0000000000000000       0x14 ./esc_joystick/Src/ESC.o
+ .text.esc_calibrate
+                0x0000000000000000       0x38 ./esc_joystick/Src/ESC.o
+ .text.map      0x0000000000000000       0x3c ./esc_joystick/Src/ESC.o
+ .text.HAL_ADC_ConvCpltCallback
+                0x0000000000000000       0x48 ./esc_joystick/Src/ESC.o
+ .text.joystick
+                0x0000000000000000       0x88 ./esc_joystick/Src/ESC.o
+ .debug_info    0x0000000000000000      0xa48 ./esc_joystick/Src/ESC.o
+ .debug_abbrev  0x0000000000000000      0x212 ./esc_joystick/Src/ESC.o
  .debug_aranges
-                0x0000000000000000       0x20 ./esc_joystick/Src/ESC.o
+                0x0000000000000000       0x40 ./esc_joystick/Src/ESC.o
  .debug_rnglists
-                0x0000000000000000       0x13 ./esc_joystick/Src/ESC.o
- .debug_macro   0x0000000000000000       0x11 ./esc_joystick/Src/ESC.o
+                0x0000000000000000       0x2c ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x34e ./esc_joystick/Src/ESC.o
  .debug_macro   0x0000000000000000      0xaa8 ./esc_joystick/Src/ESC.o
- .debug_line    0x0000000000000000       0x4c ./esc_joystick/Src/ESC.o
- .debug_str     0x0000000000000000     0x2dcb ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x29f ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x2e ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x3b ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x22 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x8e ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x51 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x103 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x6a ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x1df ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x1c ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x22 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0xd9 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000     0x12cd ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x11f ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x19 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000    0x1920a ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x6d ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000     0x3749 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x174 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x63 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000     0x18ad ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x6c4 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x185 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x115 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x1fd ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0xa5 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x24f ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x41 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x58 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x236 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x416 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x153 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x107 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x14e ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x25a ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x12 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x22c ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x61 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0xa5 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x12e ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x108 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x35 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0xa7c ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x59 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x56d ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x44 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x256 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0xba ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x14d ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x13c ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x61 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x2a ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x43 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x34 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x16 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x35 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x369 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x10 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x16 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x43 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x34 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x10 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x58 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x8e ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x1c ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x177 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x16 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x16 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000      0x147 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x16 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x16 ./esc_joystick/Src/ESC.o
+ .debug_macro   0x0000000000000000       0x29 ./esc_joystick/Src/ESC.o
+ .debug_line    0x0000000000000000      0xa91 ./esc_joystick/Src/ESC.o
+ .debug_str     0x0000000000000000    0xf2cfa ./esc_joystick/Src/ESC.o
  .comment       0x0000000000000000       0x44 ./esc_joystick/Src/ESC.o
- .debug_frame   0x0000000000000000       0x30 ./esc_joystick/Src/ESC.o
+ .debug_frame   0x0000000000000000       0xb0 ./esc_joystick/Src/ESC.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./esc_joystick/Src/ESC.o
  .group         0x0000000000000000        0xc ./esc_joystick/Src/Joystick.o
@@ -5501,44 +5656,44 @@ LOAD C:/ST/STM32CubeIDE_1.13.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_line    0x000000000001103e     0x31b3 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
  .debug_line    0x00000000000141f1     0x1bbe ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
 
-.debug_str      0x0000000000000000    0xf78a4
- .debug_str     0x0000000000000000    0xf363b ./Core/Src/main.o
-                                      0xf3e63 (size before relaxing)
- .debug_str     0x00000000000f363b      0x367 ./Core/Src/stm32f7xx_hal_msp.o
+.debug_str      0x0000000000000000    0xf78a5
+ .debug_str     0x0000000000000000    0xf363c ./Core/Src/main.o
+                                      0xf3e64 (size before relaxing)
+ .debug_str     0x00000000000f363c      0x367 ./Core/Src/stm32f7xx_hal_msp.o
                                       0xeff20 (size before relaxing)
- .debug_str     0x00000000000f39a2       0xf4 ./Core/Src/stm32f7xx_it.o
+ .debug_str     0x00000000000f39a3       0xf4 ./Core/Src/stm32f7xx_it.o
                                       0xef022 (size before relaxing)
- .debug_str     0x00000000000f3a96      0x1a4 ./Core/Src/system_stm32f7xx.o
+ .debug_str     0x00000000000f3a97      0x1a4 ./Core/Src/system_stm32f7xx.o
                                       0xeeab5 (size before relaxing)
- .debug_str     0x00000000000f3c3a       0x34 ./Core/Startup/startup_stm32f746zgtx.o
+ .debug_str     0x00000000000f3c3b       0x34 ./Core/Startup/startup_stm32f746zgtx.o
                                          0x69 (size before relaxing)
- .debug_str     0x00000000000f3c6e      0x416 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
+ .debug_str     0x00000000000f3c6f      0x416 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
                                       0xef41e (size before relaxing)
- .debug_str     0x00000000000f4084      0x2ad ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.o
+ .debug_str     0x00000000000f4085      0x2ad ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.o
                                       0xeefae (size before relaxing)
- .debug_str     0x00000000000f4331      0x330 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_str     0x00000000000f4332      0x330 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.o
                                       0xef409 (size before relaxing)
- .debug_str     0x00000000000f4661      0x2da ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_str     0x00000000000f4662      0x2da ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.o
                                       0xeedf4 (size before relaxing)
- .debug_str     0x00000000000f493b      0x105 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_str     0x00000000000f493c      0x105 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_gpio.o
                                       0xeeb73 (size before relaxing)
- .debug_str     0x00000000000f4a40      0x832 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pcd.o
+ .debug_str     0x00000000000f4a41      0x832 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pcd.o
                                       0xef4d2 (size before relaxing)
- .debug_str     0x00000000000f5272      0x12d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pcd_ex.o
+ .debug_str     0x00000000000f5273      0x12d ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pcd_ex.o
                                       0xeedd3 (size before relaxing)
- .debug_str     0x00000000000f539f      0x2ac ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr.o
+ .debug_str     0x00000000000f53a0      0x2ac ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr.o
                                       0xeed56 (size before relaxing)
- .debug_str     0x00000000000f564b      0x23e ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_str     0x00000000000f564c      0x23e ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.o
                                       0xeee17 (size before relaxing)
- .debug_str     0x00000000000f5889      0x14f ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_str     0x00000000000f588a      0x14f ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
                                       0xeed4f (size before relaxing)
- .debug_str     0x00000000000f59d8      0xe05 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.o
+ .debug_str     0x00000000000f59d9      0xe05 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.o
                                       0xefdc8 (size before relaxing)
- .debug_str     0x00000000000f67dd      0x402 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim_ex.o
+ .debug_str     0x00000000000f67de      0x402 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim_ex.o
                                       0xef61e (size before relaxing)
- .debug_str     0x00000000000f6bdf      0x865 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
+ .debug_str     0x00000000000f6be0      0x865 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
                                       0xef764 (size before relaxing)
- .debug_str     0x00000000000f7444      0x460 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
+ .debug_str     0x00000000000f7445      0x460 ./Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
                                       0xef358 (size before relaxing)
 
 .debug_frame    0x0000000000000000     0x4b54

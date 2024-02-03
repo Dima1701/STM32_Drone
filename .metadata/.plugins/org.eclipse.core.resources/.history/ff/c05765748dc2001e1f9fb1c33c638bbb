@@ -1,0 +1,11 @@
+/*
+ * gyro.c
+ *
+ *  Created on: Feb 3, 2024
+ *      Author: dimak
+ */
+#include "gyro.h"
+
+void my_main(void){
+
+}

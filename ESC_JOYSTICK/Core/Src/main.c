@@ -104,7 +104,8 @@ int main(void)
   MX_ADC1_Init();
   MX_TIM1_Init();
   /* USER CODE BEGIN 2 */
-
+  my_main();
+  esc_calibrate()''
   /* USER CODE END 2 */
 
   /* Infinite loop */

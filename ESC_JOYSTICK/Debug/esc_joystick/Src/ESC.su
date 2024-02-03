@@ -1,0 +1,5 @@
+../esc_joystick/Src/ESC.c:12:6:my_main	8	static
+../esc_joystick/Src/ESC.c:17:6:esc_calibrate	8	static
+../esc_joystick/Src/ESC.c:27:5:map	24	static
+../esc_joystick/Src/ESC.c:32:6:HAL_ADC_ConvCpltCallback	24	static
+../esc_joystick/Src/ESC.c:39:6:joystick	8	static

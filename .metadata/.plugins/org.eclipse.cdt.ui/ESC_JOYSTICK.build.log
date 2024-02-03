@@ -1,66 +1,17 @@
-20:08:44 **** Incremental Build of configuration Debug for project ESC_JOYSTICK ****
+15:04:56 **** Incremental Build of configuration Debug for project ESC_JOYSTICK ****
 make -j8 all 
 arm-none-eabi-gcc "../esc_joystick/Src/ESC.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F746xx -c -I../Core/Inc -I"C:/Users/dimak/STM32CubeIDE/Drone/ESC_JOYSTICK/esc_joystick/Inc" -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"esc_joystick/Src/ESC.d" -MT"esc_joystick/Src/ESC.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "esc_joystick/Src/ESC.o"
-../esc_joystick/Src/ESC.c:8:1: error: unknown type name 'uint16_t'
-    8 | uint16_t ADC_Data=0;
-      | ^~~~~~~~
-../esc_joystick/Src/ESC.c:1:1: note: 'uint16_t' is defined in header '<stdint.h>'; did you forget to '#include <stdint.h>'?
-  +++ |+#include <stdint.h>
-    1 | /*
-../esc_joystick/Src/ESC.c:10:1: error: unknown type name 'uint32_t'
-   10 | uint32_t VR[2];
-      | ^~~~~~~~
-../esc_joystick/Src/ESC.c:10:1: note: 'uint32_t' is defined in header '<stdint.h>'; did you forget to '#include <stdint.h>'?
-../esc_joystick/Src/ESC.c: In function 'my_main':
-../esc_joystick/Src/ESC.c:12:9: warning: implicit declaration of function 'HAL_DMA_Start' [-Wimplicit-function-declaration]
-   12 |         HAL_DMA_Start(hdma, SrcAddress, DstAddress, DataLength);
-      |         ^~~~~~~~~~~~~
-../esc_joystick/Src/ESC.c:12:23: error: 'hdma' undeclared (first use in this function)
-   12 |         HAL_DMA_Start(hdma, SrcAddress, DstAddress, DataLength);
-      |                       ^~~~
-../esc_joystick/Src/ESC.c:12:23: note: each undeclared identifier is reported only once for each function it appears in
-../esc_joystick/Src/ESC.c:12:29: error: 'SrcAddress' undeclared (first use in this function)
-   12 |         HAL_DMA_Start(hdma, SrcAddress, DstAddress, DataLength);
-      |                             ^~~~~~~~~~
-../esc_joystick/Src/ESC.c:12:41: error: 'DstAddress' undeclared (first use in this function)
-   12 |         HAL_DMA_Start(hdma, SrcAddress, DstAddress, DataLength);
-      |                                         ^~~~~~~~~~
-../esc_joystick/Src/ESC.c:12:53: error: 'DataLength' undeclared (first use in this function)
-   12 |         HAL_DMA_Start(hdma, SrcAddress, DstAddress, DataLength);
-      |                                                     ^~~~~~~~~~
-../esc_joystick/Src/ESC.c:13:9: warning: implicit declaration of function 'HAL_TIM_PWM_Start' [-Wimplicit-function-declaration]
-   13 |         HAL_TIM_PWM_Start(htim, Channel);
-      |         ^~~~~~~~~~~~~~~~~
-../esc_joystick/Src/ESC.c:13:27: error: 'htim' undeclared (first use in this function)
-   13 |         HAL_TIM_PWM_Start(htim, Channel);
-      |                           ^~~~
-../esc_joystick/Src/ESC.c:13:33: error: 'Channel' undeclared (first use in this function)
-   13 |         HAL_TIM_PWM_Start(htim, Channel);
-      |                                 ^~~~~~~
-../esc_joystick/Src/ESC.c: In function 'esc_calibrate':
-../esc_joystick/Src/ESC.c:17:13: error: 'Calibrate' undeclared (first use in this function); did you mean 'esc_calibrate'?
-   17 |         if (Calibrate) {
-      |             ^~~~~~~~~
-      |             esc_calibrate
-../esc_joystick/Src/ESC.c:18:17: error: 'TIM2' undeclared (first use in this function)
-   18 |                 TIM2->CCR1 = 100; // Set the maximum pulse (2ms)
-      |                 ^~~~
-../esc_joystick/Src/ESC.c:19:17: warning: implicit declaration of function 'HAL_Delay' [-Wimplicit-function-declaration]
-   19 |                 HAL_Delay(2000);  // wait for 1 beep
-      |                 ^~~~~~~~~
-../esc_joystick/Src/ESC.c: At top level:
-../esc_joystick/Src/ESC.c:31:31: error: unknown type name 'ADC_HandleTypeDef'
-   31 | void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* hadc)
-      |                               ^~~~~~~~~~~~~~~~~
-../esc_joystick/Src/ESC.c: In function 'joystick':
-../esc_joystick/Src/ESC.c:40:27: warning: implicit declaration of function 'HAL_ADC_ConvCpltCallback' [-Wimplicit-function-declaration]
-   40 |                           HAL_ADC_ConvCpltCallback(hadc);
-      |                           ^~~~~~~~~~~~~~~~~~~~~~~~
-../esc_joystick/Src/ESC.c:40:52: error: 'hadc' undeclared (first use in this function)
-   40 |                           HAL_ADC_ConvCpltCallback(hadc);
-      |                                                    ^~~~
-make: *** [esc_joystick/Src/subdir.mk:25: esc_joystick/Src/ESC.o] Error 1
-"make -j8 all" terminated with exit code 2. Build might be incomplete.
+arm-none-eabi-gcc -o "ESC_JOYSTICK.elf" @"objects.list"   -mcpu=cortex-m7 -T"C:\Users\dimak\STM32CubeIDE\Drone\ESC_JOYSTICK\STM32F746ZGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ESC_JOYSTICK.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: ESC_JOYSTICK.elf
+ 
+arm-none-eabi-size  ESC_JOYSTICK.elf 
+arm-none-eabi-objdump -h -S ESC_JOYSTICK.elf  > "ESC_JOYSTICK.list"
+   text	   data	    bss	    dec	    hex	filename
+  20276	     20	   3236	  23532	   5bec	ESC_JOYSTICK.elf
+Finished building: default.size.stdout
+ 
+Finished building: ESC_JOYSTICK.list
+ 
 
-20:08:45 Build Failed. 13 errors, 4 warnings. (took 406ms)
+15:04:57 Build Finished. 0 errors, 0 warnings. (took 913ms)
 

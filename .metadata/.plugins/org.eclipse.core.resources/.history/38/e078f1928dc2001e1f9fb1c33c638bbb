@@ -1,0 +1,19 @@
+/*
+ * gyro.c
+ *
+ *  Created on: Feb 3, 2024
+ *      Author: dimak
+ */
+/*   LCD
+ * PB10	I2C2_SCL	n/a	Alternate Function Open Drain	No pull-up and no pull-down	Very High		false
+ * PB11	I2C2_SDA	n/a	Alternate Function Open Drain	No pull-up and no pull-down	Very High		false
+ *
+ * GY-521 MPU6050
+ *
+ * PB6	I2C1_SCL	n/a	Alternate Function Open Drain	No pull-up and no pull-down	Very High		false
+ * PB9	I2C1_SDA	n/a	Alternate Function Open Drain	No pull-up and no pull-down	Very High		false*/
+#include "gyro.h"
+
+void my_main(void){
+
+}
